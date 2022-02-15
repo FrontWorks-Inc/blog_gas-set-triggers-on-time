@@ -1,5 +1,5 @@
 # blog_gas-set-triggers-on-time
-時間ピッタリのトリガーを設定するためのプログラム
+Google Apps Script: 時間ピッタリのトリガーを設定するためのプログラムとトリガー関連のクラス化
 
 ## About gs Files
 #### Trigger Account
