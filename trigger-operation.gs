@@ -6,7 +6,7 @@ function myFunction() {
   const trigger = new Trigger(functionName);
   const date = new Date();
   date.setHours(10);
-  date.setMinutes(0)
+  date.setMinutes(0);
 
   trigger.
     delete().
