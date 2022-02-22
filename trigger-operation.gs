@@ -5,8 +5,8 @@ function myFunction() {
   const functionName = 'targetFunction';
   const trigger = new Trigger(functionName);
   const date = new Date();
-  date.setHours(10);
-  date.setMinutes(0);
+  const time = '10:00';
+  date.setHours(...time.split(':'));
 
   trigger.
     delete().
